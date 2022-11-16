@@ -122,11 +122,7 @@
                             app:drawableEndCompat="@drawable/ic_equal"
                             app:drawableStartCompat="@drawable/ic_minus" />
 
-                        <!--                        <TextView-->
-                        <!--                            android:layout_width="match_parent"-->
-                        <!--                            android:layout_height="wrap_content"-->
-                        <!--                            android:gravity="center_horizontal"-->
-                        <!--                            android:text="Food" />-->
+
                     </LinearLayout>
 
                     <LinearLayout

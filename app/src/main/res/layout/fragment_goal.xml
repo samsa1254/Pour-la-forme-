@@ -11,7 +11,7 @@
         android:layout_height="?attr/actionBarSize"
         android:background="@color/yellow"
         android:theme="@style/Theme.MaterialComponents.DayNight.DarkActionBar"
-        app:title="hityourmacros"
+        app:title="Pour la forme"
         app:titleTextColor="@color/white" />
 
     <androidx.core.widget.NestedScrollView
